@@ -5,7 +5,7 @@
 
 - 🌐 - Current Projects:
 -          - 🤖 - Developing an own discord bot
--         - 📚 - Developing the Library Simulator (planned release: 29.01.2025)
+-         - 📚 - Developing the Soul Collecter (planned release: 29.01.2025)
 
 - ☁️ - My Discord: https://dsc.gg/plutoplace
 <!---
