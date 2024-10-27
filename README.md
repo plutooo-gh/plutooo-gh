@@ -5,7 +5,7 @@
 
 - 🌐 - Current Projects:
 -          - 🤖 - Developing an own discord bot
--         - 📚 - Developing the Manga Simulator (planned release: 29.01.2025)
+-         - 📚 - Developing the Library Simulator (planned release: 29.01.2025)
 
 <!---
 plutooo-gh/plutooo-gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
