@@ -4,8 +4,7 @@
 - ⚡ - Fun fact: I dont know why I'am here
 
 - 🌐 - Current Projects:
--          - 🤖 - Developing an own discord bot
--         - 📚 - Developing the Soul Collecter (planned release: 29.01.2025)
+-       None
 
 - ☁️ - My Discord: https://dsc.gg/plutoplace
 <!---
