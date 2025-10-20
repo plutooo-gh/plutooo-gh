@@ -5,7 +5,7 @@
 - ⚡ - Fun fact: I dont even know why I'am here
 
 - 🌐 - Current Projects:
--       Inter**T**panel (A team panel developed to connect teams international with an automatically translating system)
+-       InterTpanel (A team panel developed to connect teams international with an automatically translating system)
 
 - ☁️ - My Discord: currently not reachable due to some upcomming changes
 <!---
