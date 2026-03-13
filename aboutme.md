@@ -61,9 +61,7 @@ const plutooo = {
  
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
  
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,31 +69,7 @@ const plutooo = {
  
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
  
-</div>
- 
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api?username=Plutooo&show_icons=true&theme=radical&border_color=00fff7&bg_color=0d0d0d&title_color=00fff7&icon_color=bf00ff&text_color=ffffff&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plutooo&layout=compact&theme=radical&border_color=00fff7&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff" height="165"/>
- 
-<br/>
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Plutooo&theme=radical&border=00fff7&background=0d0d0d&ring=bf00ff&fire=ff00aa&currStreakLabel=00fff7" />
- 
-</div>
- 
----
- 
-## 🐍 Contribution Snake
- 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Plutooo/Plutooo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
  
 ---
